@@ -1,4 +1,4 @@
-# Student Performance Using Pandas
+# Student Performance Analysis Using Pandas
 
 A beginner-friendly Python project that explores and analyzes student performance data using **Pandas**.
 
